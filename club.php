@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: باشگاه مشتریان دسرنگ
-Description: سیستم مدیریت باشگاه مشتریان دسرنگ
+Plugin Name: باشگاه مشتریان 
+Description: سیستم مدیریت باشگاه مشتریان
 */
 
 // Exit if accessed directly.
